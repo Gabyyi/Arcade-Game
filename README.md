@@ -8,9 +8,9 @@ Before installing this, please make sure that you have installed:
 
 To successfully run this rust application, you have to follow these steps:
 
-  1. Clone the repository `git clone https://github.com/UPB-PMRust-Students/project-Gabyyi.git`
+  1. Clone the repository `git clone https://github.com/Gabyyi/Arcade-Game.git`
 
-  2. Change directory to the project `cd project-Gabyyi`
+  2. Change directory to the project `cd Arcade-Game`
       - Navigate to `cd project`
         - this is the actual poject
         - inside `src/bin` folder there are multiple versions of the code each one being an improvement variant of the previous one
